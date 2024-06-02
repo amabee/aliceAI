@@ -1,2 +1,2 @@
 # Net Beans Alice
- Alice AI but with small tweaks
+ Simple Alice AI but with small tweaks
